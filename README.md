@@ -14,6 +14,8 @@ Mentor: Sravani Gouni
 
 Overview of the project:
 
+
+
 Project Name: PREDICTIVE MODELLING WITH LINEAR REGRESSION
 
 Objective:The objective of the task Predictive Modeling with Linear Regression is to develop a mathematical model that can predict the value of a dependent (target) variable based on one or more independent (predictor) variables. Linear regression aims to establish a linear relationship between the target variable and the predictor variables by fitting a line (in simple linear regression) or a hyperplane (in multiple linear regression) that best describes the relationship between them.
@@ -33,6 +35,8 @@ Key Objectives:
 6.Interpret Model (understand the results and make decisions)
 
 
+
+
 Technologies Used:
 
 1.Pandas: For data manipulation and analysis.
@@ -46,6 +50,9 @@ Technologies Used:
 5.Matplotlib: For creating static, animated, and interactive visualizations.
 
 6.Seaborn: For statistical data visualization, built on top of Matplotlib.
+
+
+
 
 Key Insights:
 
