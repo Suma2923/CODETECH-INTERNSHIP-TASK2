@@ -72,3 +72,10 @@ Key Insights:
 
 6.Identifying areas for improvement and further exploration.
 
+
+
+OUTPUT:
+
+![intern 2](https://github.com/Suma2923/CODETECH-INTERNSHIP-TASK2/assets/174889234/4860b6b1-be6e-4ef2-998c-35cd3507b1a3)
+
+
