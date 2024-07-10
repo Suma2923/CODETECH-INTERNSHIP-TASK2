@@ -18,7 +18,7 @@ Overview of the project:
 
 Project Name: PREDICTIVE MODELLING WITH LINEAR REGRESSION
 
-Objective:The objective of the task Predictive Modeling with Linear Regression is to develop a mathematical model that can predict the value of a dependent (target) variable based on one or more independent (predictor) variables. Linear regression aims to establish a linear relationship between the target variable and the predictor variables by fitting a line (in simple linear regression) or a hyperplane (in multiple linear regression) that best describes the relationship between them.
+Objective: The objective of the task Predictive Modeling with Linear Regression is to develop a mathematical model that can predict the value of a dependent (target) variable based on one or more independent (predictor) variables. Linear regression aims to establish a linear relationship between the target variable and the predictor variables by fitting a line (in simple linear regression) or a hyperplane (in multiple linear regression) that best describes the relationship between them.
 
 
 
